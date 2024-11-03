@@ -1,0 +1,14 @@
+header {
+  background: #f55a5a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding-block: 1rem;
+  padding-inline: 1rem;
+}
+
+img.logo {
+  width: 50px;
+}

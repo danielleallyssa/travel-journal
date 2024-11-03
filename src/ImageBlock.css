@@ -1,0 +1,5 @@
+.feature--image-wrapper {
+  border-radius: 10px;
+  overflow: hidden;
+  width: min(500px, 100%);
+}
