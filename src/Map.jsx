@@ -1,5 +1,6 @@
 import "./Map.css";
 import icon from "./assets/Pin.svg";
+//
 
 const Map = (data) => {
   const { location, googleMapUrl } = data;
