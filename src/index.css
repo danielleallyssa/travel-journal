@@ -64,11 +64,11 @@ section {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: #fff;
+    background-color: #1f1d28;
   }
   a:hover {
-    color: #747bff;
+    color: #fff;
   }
   button {
     background-color: #f9f9f9;

@@ -12,3 +12,9 @@ header {
 img.logo {
   width: 50px;
 }
+
+@media (prefers-color-scheme: dark) {
+  header {
+    background: #c45454;
+  }
+}
